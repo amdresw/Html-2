@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.Bigsection {
+    max-width: 33%;
+    max-height: 100%;
+    border: 5px solid;color: black;
+    padding: 10px;
+    background-color: beige;
+}
+
+.titles {
+    align-content: center;
+    max-width: 90%;
+    max-height: 50px;
+    border: 2.5px solid; color: black;
+    padding: 15px;
+
+}
+
+.photo{
+    text-align: center;
+    margin: 20px;
+}
