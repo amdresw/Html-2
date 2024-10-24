@@ -9,7 +9,7 @@
 
 body {
     padding: 40px;
-    background-color: #f5f5f5;
+    background-color:#A5D1F3;
 }
 
 .main-table {
@@ -17,7 +17,7 @@ body {
     max-width: 1500px;
     margin: 0 auto;
     border-collapse: separate;
-    background-color: white;
+    background-color: #FEEEEC;
     border-spacing: 20px;
 }
 
@@ -29,6 +29,7 @@ body {
     width: 100%;
     margin-bottom: 30px;
     border-collapse: collapse;
+    background-color: #D0D2C6;
 }
 
 td {
@@ -48,7 +49,7 @@ td {
 }
 
 .section-title {
-    background-color: white;
+    background-color: #7A6F9B;
     padding: 10px;
     text-align: center;
     font-weight: bold;
